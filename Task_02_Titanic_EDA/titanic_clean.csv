@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Sex,Age,AgeMissing,AgeGroup,Title,SibSp,Parch,FamilySize,FamilyGroup,IsAlone,Fare,FarePerPerson,TicketCount,HasCabin,Deck,Embarked
+1,0,3,male,22.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,7.25,7.25,1,0,U,Southampton
+2,1,1,female,38.0,0,Adult (31-50),Mrs,1,0,2,Small (2-4),0,71.2833,71.2833,1,1,C,Cherbourg
+3,1,3,female,26.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,7.925,7.925,1,0,U,Southampton
+4,1,1,female,35.0,0,Adult (31-50),Mrs,1,0,2,Small (2-4),0,53.1,26.55,2,1,C,Southampton
+5,0,3,male,35.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+6,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.4583,8.4583,1,0,U,Queenstown
+7,0,1,male,54.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,51.8625,51.8625,1,1,E,Southampton
+8,0,3,male,2.0,0,Child (0-12),Master,3,1,5,Large (5+),0,21.075,5.26875,4,0,U,Southampton
+9,1,3,female,27.0,0,Young adult (19-30),Mrs,0,2,3,Small (2-4),0,11.1333,3.7111,3,0,U,Southampton
+10,1,2,female,14.0,0,Teen (13-18),Mrs,1,0,2,Small (2-4),0,30.0708,15.0354,2,0,U,Cherbourg
+11,1,3,female,4.0,0,Child (0-12),Miss,1,1,3,Small (2-4),0,16.7,8.35,2,1,G,Southampton
+12,1,1,female,58.0,0,Senior (51+),Miss,0,0,1,Alone (1),1,26.55,26.55,1,1,C,Southampton
+13,0,3,male,20.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+14,0,3,male,39.0,0,Adult (31-50),Mr,1,5,7,Large (5+),0,31.275,4.4678571428571425,7,0,U,Southampton
+15,0,3,female,14.0,0,Teen (13-18),Miss,0,0,1,Alone (1),1,7.8542,7.8542,1,0,U,Southampton
+16,1,2,female,55.0,0,Senior (51+),Mrs,0,0,1,Alone (1),1,16.0,16.0,1,0,U,Southampton
+17,0,3,male,2.0,0,Child (0-12),Master,4,1,6,Large (5+),0,29.125,5.825,5,0,U,Queenstown
+18,1,2,male,31.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+19,0,3,female,31.0,0,Adult (31-50),Mrs,1,0,2,Small (2-4),0,18.0,18.0,1,0,U,Southampton
+20,1,3,female,31.0,1,Adult (31-50),Mrs,0,0,1,Alone (1),1,7.225,7.225,1,0,U,Cherbourg
+21,0,2,male,35.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,26.0,13.0,2,0,U,Southampton
+22,1,2,male,34.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,13.0,13.0,1,1,D,Southampton
+23,1,3,female,15.0,0,Teen (13-18),Miss,0,0,1,Alone (1),1,8.0292,8.0292,1,0,U,Queenstown
+24,1,1,male,28.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,35.5,35.5,1,1,A,Southampton
+25,0,3,female,8.0,0,Child (0-12),Miss,3,1,5,Large (5+),0,21.075,5.26875,4,0,U,Southampton
+26,1,3,female,38.0,0,Adult (31-50),Mrs,1,5,7,Large (5+),0,31.3875,7.846875,4,0,U,Southampton
+27,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.225,7.225,1,0,U,Cherbourg
+28,0,1,male,19.0,0,Young adult (19-30),Mr,3,2,6,Large (5+),0,263.0,65.75,4,1,C,Southampton
+29,1,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.8792,7.8792,1,0,U,Queenstown
+30,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+31,0,1,male,40.0,0,Adult (31-50),Rare,0,0,1,Alone (1),1,27.7208,27.7208,1,0,U,Cherbourg
+32,1,1,female,40.0,1,Adult (31-50),Mrs,1,0,2,Small (2-4),0,146.5208,73.2604,2,1,B,Cherbourg
+33,1,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+34,0,2,male,66.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+35,0,1,male,28.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,82.1708,41.0854,2,0,U,Cherbourg
+36,0,1,male,42.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,52.0,26.0,2,0,U,Southampton
+37,1,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.2292,7.2292,1,0,U,Cherbourg
+38,0,3,male,21.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+39,0,3,female,18.0,0,Teen (13-18),Miss,2,0,3,Small (2-4),0,18.0,9.0,2,0,U,Southampton
+40,1,3,female,14.0,0,Teen (13-18),Miss,1,0,2,Small (2-4),0,11.2417,5.62085,2,0,U,Cherbourg
+41,0,3,female,40.0,0,Adult (31-50),Mrs,1,0,2,Small (2-4),0,9.475,9.475,1,0,U,Southampton
+42,0,2,female,27.0,0,Young adult (19-30),Mrs,1,0,2,Small (2-4),0,21.0,10.5,2,0,U,Southampton
+43,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Cherbourg
+44,1,2,female,3.0,0,Child (0-12),Miss,1,2,4,Small (2-4),0,41.5792,13.859733333333333,3,0,U,Cherbourg
+45,1,3,female,19.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,7.8792,7.8792,1,0,U,Queenstown
+46,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+47,0,3,male,26.0,1,Young adult (19-30),Mr,1,0,2,Small (2-4),0,15.5,15.5,1,0,U,Queenstown
+48,1,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+49,0,3,male,26.0,1,Young adult (19-30),Mr,2,0,3,Small (2-4),0,21.6792,21.6792,1,0,U,Cherbourg
+50,0,3,female,18.0,0,Teen (13-18),Mrs,1,0,2,Small (2-4),0,17.8,8.9,2,0,U,Southampton
+51,0,3,male,7.0,0,Child (0-12),Master,4,1,6,Large (5+),0,39.6875,6.614583333333333,6,0,U,Southampton
+52,0,3,male,21.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8,7.8,1,0,U,Southampton
+53,1,1,female,49.0,0,Adult (31-50),Mrs,1,0,2,Small (2-4),0,76.7292,25.576400000000003,3,1,D,Cherbourg
+54,1,2,female,29.0,0,Young adult (19-30),Mrs,1,0,2,Small (2-4),0,26.0,26.0,1,0,U,Southampton
+55,0,1,male,65.0,0,Senior (51+),Mr,0,1,2,Small (2-4),0,61.9792,61.9792,1,1,B,Cherbourg
+56,1,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,35.5,35.5,1,1,C,Southampton
+57,1,2,female,21.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+58,0,3,male,28.5,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.2292,7.2292,1,0,U,Cherbourg
+59,1,2,female,5.0,0,Child (0-12),Miss,1,2,4,Small (2-4),0,27.75,9.25,3,0,U,Southampton
+60,0,3,male,11.0,0,Child (0-12),Master,5,2,8,Large (5+),0,46.9,7.816666666666666,6,0,U,Southampton
+61,0,3,male,22.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.2292,7.2292,1,0,U,Cherbourg
+62,1,1,female,38.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,80.0,40.0,2,1,B,Southampton
+63,0,1,male,45.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,83.475,41.7375,2,1,C,Southampton
+64,0,3,male,4.0,0,Child (0-12),Master,3,2,6,Large (5+),0,27.9,4.6499999999999995,6,0,U,Southampton
+65,0,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,27.7208,27.7208,1,0,U,Cherbourg
+66,1,3,male,4.0,1,Child (0-12),Master,1,1,3,Small (2-4),0,15.2458,7.6229,2,0,U,Cherbourg
+67,1,2,female,29.0,0,Young adult (19-30),Mrs,0,0,1,Alone (1),1,10.5,10.5,1,1,F,Southampton
+68,0,3,male,19.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.1583,8.1583,1,0,U,Southampton
+69,1,3,female,17.0,0,Teen (13-18),Miss,4,2,7,Large (5+),0,7.925,7.925,1,0,U,Southampton
+70,0,3,male,26.0,0,Young adult (19-30),Mr,2,0,3,Small (2-4),0,8.6625,8.6625,1,0,U,Southampton
+71,0,2,male,32.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+72,0,3,female,16.0,0,Teen (13-18),Miss,5,2,8,Large (5+),0,46.9,7.816666666666666,6,0,U,Southampton
+73,0,2,male,21.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,73.5,14.7,5,0,U,Southampton
+74,0,3,male,26.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,14.4542,14.4542,1,0,U,Cherbourg
+75,1,3,male,32.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,56.4958,8.070828571428573,7,0,U,Southampton
+76,0,3,male,25.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.65,7.65,1,1,F,Southampton
+77,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+78,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+79,1,2,male,0.83,0,Child (0-12),Master,0,2,3,Small (2-4),0,29.0,14.5,2,0,U,Southampton
+80,1,3,female,30.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,12.475,6.2375,2,0,U,Southampton
+81,0,3,male,22.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,9.0,9.0,1,0,U,Southampton
+82,1,3,male,29.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,9.5,9.5,1,0,U,Southampton
+83,1,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.7875,7.7875,1,0,U,Queenstown
+84,0,1,male,28.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,47.1,47.1,1,0,U,Southampton
+85,1,2,female,17.0,0,Teen (13-18),Miss,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+86,1,3,female,33.0,0,Adult (31-50),Mrs,3,0,4,Small (2-4),0,15.85,7.925,2,0,U,Southampton
+87,0,3,male,16.0,0,Teen (13-18),Mr,1,3,5,Large (5+),0,34.375,8.59375,4,0,U,Southampton
+88,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+89,1,1,female,23.0,0,Young adult (19-30),Miss,3,2,6,Large (5+),0,263.0,65.75,4,1,C,Southampton
+90,0,3,male,24.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+91,0,3,male,29.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+92,0,3,male,20.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8542,7.8542,1,0,U,Southampton
+93,0,1,male,46.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,61.175,61.175,1,1,E,Southampton
+94,0,3,male,26.0,0,Young adult (19-30),Mr,1,2,4,Small (2-4),0,20.575,10.2875,2,0,U,Southampton
+95,0,3,male,59.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,7.25,7.25,1,0,U,Southampton
+96,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+97,0,1,male,71.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,34.6542,34.6542,1,1,A,Cherbourg
+98,1,1,male,23.0,0,Young adult (19-30),Mr,0,1,2,Small (2-4),0,63.3583,63.3583,1,1,D,Cherbourg
+99,1,2,female,34.0,0,Adult (31-50),Mrs,0,1,2,Small (2-4),0,23.0,11.5,2,0,U,Southampton
+100,0,2,male,34.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,26.0,13.0,2,0,U,Southampton
+101,0,3,female,28.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+102,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+103,0,1,male,21.0,0,Young adult (19-30),Mr,0,1,2,Small (2-4),0,77.2875,38.64375,2,1,D,Southampton
+104,0,3,male,33.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.6542,8.6542,1,0,U,Southampton
+105,0,3,male,37.0,0,Adult (31-50),Mr,2,0,3,Small (2-4),0,7.925,7.925,1,0,U,Southampton
+106,0,3,male,28.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+107,1,3,female,21.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,7.65,7.65,1,0,U,Southampton
+108,1,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.775,7.775,1,0,U,Southampton
+109,0,3,male,38.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+110,1,3,female,18.0,1,Teen (13-18),Miss,1,0,2,Small (2-4),0,24.15,8.049999999999999,3,0,U,Queenstown
+111,0,1,male,47.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,52.0,26.0,2,1,C,Southampton
+112,0,3,female,14.5,0,Teen (13-18),Miss,1,0,2,Small (2-4),0,14.4542,7.2271,2,0,U,Cherbourg
+113,0,3,male,22.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+114,0,3,female,20.0,0,Young adult (19-30),Miss,1,0,2,Small (2-4),0,9.825,9.825,1,0,U,Southampton
+115,0,3,female,17.0,0,Teen (13-18),Miss,0,0,1,Alone (1),1,14.4583,7.22915,2,0,U,Cherbourg
+116,0,3,male,21.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.925,7.925,1,0,U,Southampton
+117,0,3,male,70.5,0,Senior (51+),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+118,0,2,male,29.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,21.0,10.5,2,0,U,Southampton
+119,0,1,male,24.0,0,Young adult (19-30),Mr,0,1,2,Small (2-4),0,247.5208,123.7604,2,1,B,Cherbourg
+120,0,3,female,2.0,0,Child (0-12),Miss,4,2,7,Large (5+),0,31.275,4.4678571428571425,7,0,U,Southampton
+121,0,2,male,21.0,0,Young adult (19-30),Mr,2,0,3,Small (2-4),0,73.5,14.7,5,0,U,Southampton
+122,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+123,0,2,male,32.5,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,30.0708,15.0354,2,0,U,Cherbourg
+124,1,2,female,32.5,0,Adult (31-50),Miss,0,0,1,Alone (1),1,13.0,13.0,1,1,E,Southampton
+125,0,1,male,54.0,0,Senior (51+),Mr,0,1,2,Small (2-4),0,77.2875,38.64375,2,1,D,Southampton
+126,1,3,male,12.0,0,Child (0-12),Master,1,0,2,Small (2-4),0,11.2417,5.62085,2,0,U,Cherbourg
+127,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+128,1,3,male,24.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.1417,7.1417,1,0,U,Southampton
+129,1,3,female,18.0,1,Teen (13-18),Miss,1,1,3,Small (2-4),0,22.3583,11.17915,2,1,F,Cherbourg
+130,0,3,male,45.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,6.975,6.975,1,0,U,Southampton
+131,0,3,male,33.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Cherbourg
+132,0,3,male,20.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.05,7.05,1,0,U,Southampton
+133,0,3,female,47.0,0,Adult (31-50),Mrs,1,0,2,Small (2-4),0,14.5,14.5,1,0,U,Southampton
+134,1,2,female,29.0,0,Young adult (19-30),Mrs,1,0,2,Small (2-4),0,26.0,26.0,1,0,U,Southampton
+135,0,2,male,25.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+136,0,2,male,23.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,15.0458,15.0458,1,0,U,Cherbourg
+137,1,1,female,19.0,0,Young adult (19-30),Miss,0,2,3,Small (2-4),0,26.2833,26.2833,1,1,D,Southampton
+138,0,1,male,37.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,53.1,26.55,2,1,C,Southampton
+139,0,3,male,16.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,9.2167,4.60835,2,0,U,Southampton
+140,0,1,male,24.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,79.2,39.6,2,1,B,Cherbourg
+141,0,3,female,31.0,1,Adult (31-50),Mrs,0,2,3,Small (2-4),0,15.2458,7.6229,2,0,U,Cherbourg
+142,1,3,female,22.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Southampton
+143,1,3,female,24.0,0,Young adult (19-30),Mrs,1,0,2,Small (2-4),0,15.85,7.925,2,0,U,Southampton
+144,0,3,male,19.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,6.75,6.75,1,0,U,Queenstown
+145,0,2,male,18.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,11.5,11.5,1,0,U,Southampton
+146,0,2,male,19.0,0,Young adult (19-30),Mr,1,1,3,Small (2-4),0,36.75,18.375,2,0,U,Southampton
+147,1,3,male,27.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.7958,7.7958,1,0,U,Southampton
+148,0,3,female,9.0,0,Child (0-12),Miss,2,2,5,Large (5+),0,34.375,8.59375,4,0,U,Southampton
+149,0,2,male,36.5,0,Adult (31-50),Mr,0,2,3,Small (2-4),0,26.0,8.666666666666666,3,1,F,Southampton
+150,0,2,male,42.0,0,Adult (31-50),Rare,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+151,0,2,male,51.0,0,Senior (51+),Rare,0,0,1,Alone (1),1,12.525,12.525,1,0,U,Southampton
+152,1,1,female,22.0,0,Young adult (19-30),Mrs,1,0,2,Small (2-4),0,66.6,33.3,2,1,C,Southampton
+153,0,3,male,55.5,0,Senior (51+),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+154,0,3,male,40.5,0,Adult (31-50),Mr,0,2,3,Small (2-4),0,14.5,14.5,1,0,U,Southampton
+155,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.3125,7.3125,1,0,U,Southampton
+156,0,1,male,51.0,0,Senior (51+),Mr,0,1,2,Small (2-4),0,61.3792,61.3792,1,0,U,Cherbourg
+157,1,3,female,16.0,0,Teen (13-18),Miss,0,0,1,Alone (1),1,7.7333,7.7333,1,0,U,Queenstown
+158,0,3,male,30.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+159,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.6625,8.6625,1,0,U,Southampton
+160,0,3,male,4.0,1,Child (0-12),Master,8,2,11,Large (5+),0,69.55,9.935714285714285,7,0,U,Southampton
+161,0,3,male,44.0,0,Adult (31-50),Mr,0,1,2,Small (2-4),0,16.1,16.1,1,0,U,Southampton
+162,1,2,female,40.0,0,Adult (31-50),Mrs,0,0,1,Alone (1),1,15.75,15.75,1,0,U,Southampton
+163,0,3,male,26.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.775,7.775,1,0,U,Southampton
+164,0,3,male,17.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,8.6625,8.6625,1,0,U,Southampton
+165,0,3,male,1.0,0,Child (0-12),Master,4,1,6,Large (5+),0,39.6875,6.614583333333333,6,0,U,Southampton
+166,1,3,male,9.0,0,Child (0-12),Master,0,2,3,Small (2-4),0,20.525,6.841666666666666,3,0,U,Southampton
+167,1,1,female,40.0,1,Adult (31-50),Mrs,0,1,2,Small (2-4),0,55.0,27.5,2,1,E,Southampton
+168,0,3,female,45.0,0,Adult (31-50),Mrs,1,4,6,Large (5+),0,27.9,4.6499999999999995,6,0,U,Southampton
+169,0,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,25.925,25.925,1,0,U,Southampton
+170,0,3,male,28.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,56.4958,8.070828571428573,7,0,U,Southampton
+171,0,1,male,61.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,33.5,33.5,1,1,B,Southampton
+172,0,3,male,4.0,0,Child (0-12),Master,4,1,6,Large (5+),0,29.125,5.825,5,0,U,Queenstown
+173,1,3,female,1.0,0,Child (0-12),Miss,1,1,3,Small (2-4),0,11.1333,3.7111,3,0,U,Southampton
+174,0,3,male,21.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.925,7.925,1,0,U,Southampton
+175,0,1,male,56.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,30.6958,30.6958,1,1,A,Cherbourg
+176,0,3,male,18.0,0,Teen (13-18),Mr,1,1,3,Small (2-4),0,7.8542,7.8542,1,0,U,Southampton
+177,0,3,male,4.0,1,Child (0-12),Master,3,1,5,Large (5+),0,25.4667,6.366675,4,0,U,Southampton
+178,0,1,female,50.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,28.7125,28.7125,1,1,C,Cherbourg
+179,0,2,male,30.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+180,0,3,male,36.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,0.0,0.0,4,0,U,Southampton
+181,0,3,female,18.0,1,Teen (13-18),Miss,8,2,11,Large (5+),0,69.55,9.935714285714285,7,0,U,Southampton
+182,0,2,male,31.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,15.05,15.05,1,0,U,Cherbourg
+183,0,3,male,9.0,0,Child (0-12),Master,4,2,7,Large (5+),0,31.3875,7.846875,4,0,U,Southampton
+184,1,2,male,1.0,0,Child (0-12),Master,2,1,4,Small (2-4),0,39.0,19.5,2,1,F,Southampton
+185,1,3,female,4.0,0,Child (0-12),Miss,0,2,3,Small (2-4),0,22.025,22.025,1,0,U,Southampton
+186,0,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,50.0,50.0,1,1,A,Southampton
+187,1,3,female,31.0,1,Adult (31-50),Mrs,1,0,2,Small (2-4),0,15.5,7.75,2,0,U,Queenstown
+188,1,1,male,45.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,26.55,26.55,1,0,U,Southampton
+189,0,3,male,40.0,0,Adult (31-50),Mr,1,1,3,Small (2-4),0,15.5,7.75,2,0,U,Queenstown
+190,0,3,male,36.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+191,1,2,female,32.0,0,Adult (31-50),Mrs,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+192,0,2,male,19.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+193,1,3,female,19.0,0,Young adult (19-30),Miss,1,0,2,Small (2-4),0,7.8542,7.8542,1,0,U,Southampton
+194,1,2,male,3.0,0,Child (0-12),Master,1,1,3,Small (2-4),0,26.0,8.666666666666666,3,1,F,Southampton
+195,1,1,female,44.0,0,Adult (31-50),Mrs,0,0,1,Alone (1),1,27.7208,27.7208,1,1,B,Cherbourg
+196,1,1,female,58.0,0,Senior (51+),Miss,0,0,1,Alone (1),1,146.5208,73.2604,2,1,B,Cherbourg
+197,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+198,0,3,male,42.0,0,Adult (31-50),Mr,0,1,2,Small (2-4),0,8.4042,8.4042,1,0,U,Southampton
+199,1,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+200,0,2,female,24.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+201,0,3,male,28.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,9.5,9.5,1,0,U,Southampton
+202,0,3,male,26.0,1,Young adult (19-30),Mr,8,2,11,Large (5+),0,69.55,9.935714285714285,7,0,U,Southampton
+203,0,3,male,34.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,6.4958,6.4958,1,0,U,Southampton
+204,0,3,male,45.5,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.225,7.225,1,0,U,Cherbourg
+205,1,3,male,18.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+206,0,3,female,2.0,0,Child (0-12),Miss,0,1,2,Small (2-4),0,10.4625,5.23125,2,1,G,Southampton
+207,0,3,male,32.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,15.85,7.925,2,0,U,Southampton
+208,1,3,male,26.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,18.7875,9.39375,2,0,U,Cherbourg
+209,1,3,female,16.0,0,Teen (13-18),Miss,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+210,1,1,male,40.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,31.0,31.0,1,1,A,Cherbourg
+211,0,3,male,24.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.05,7.05,1,0,U,Southampton
+212,1,2,female,35.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,21.0,21.0,1,0,U,Southampton
+213,0,3,male,22.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.25,7.25,1,0,U,Southampton
+214,0,2,male,30.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+215,0,3,male,26.0,1,Young adult (19-30),Mr,1,0,2,Small (2-4),0,7.75,7.75,1,0,U,Queenstown
+216,1,1,female,31.0,0,Adult (31-50),Miss,1,0,2,Small (2-4),0,113.275,37.75833333333333,3,1,D,Cherbourg
+217,1,3,female,27.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,7.925,7.925,1,0,U,Southampton
+218,0,2,male,42.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,27.0,13.5,2,0,U,Southampton
+219,1,1,female,32.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,76.2917,76.2917,1,1,D,Cherbourg
+220,0,2,male,30.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+221,1,3,male,16.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+222,0,2,male,27.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+223,0,3,male,51.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+224,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+225,1,1,male,38.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,90.0,45.0,2,1,C,Southampton
+226,0,3,male,22.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,9.35,9.35,1,0,U,Southampton
+227,1,2,male,19.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+228,0,3,male,20.5,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.25,7.25,1,0,U,Southampton
+229,0,2,male,18.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+230,0,3,female,18.0,1,Teen (13-18),Miss,3,1,5,Large (5+),0,25.4667,6.366675,4,0,U,Southampton
+231,1,1,female,35.0,0,Adult (31-50),Mrs,1,0,2,Small (2-4),0,83.475,41.7375,2,1,C,Southampton
+232,0,3,male,29.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.775,7.775,1,0,U,Southampton
+233,0,2,male,59.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,13.5,13.5,1,0,U,Southampton
+234,1,3,female,5.0,0,Child (0-12),Miss,4,2,7,Large (5+),0,31.3875,7.846875,4,0,U,Southampton
+235,0,2,male,24.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+236,0,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.55,7.55,1,0,U,Southampton
+237,0,2,male,44.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,26.0,26.0,1,0,U,Southampton
+238,1,2,female,8.0,0,Child (0-12),Miss,0,2,3,Small (2-4),0,26.25,8.75,3,0,U,Southampton
+239,0,2,male,19.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+240,0,2,male,33.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,12.275,12.275,1,0,U,Southampton
+241,0,3,female,18.0,1,Teen (13-18),Miss,1,0,2,Small (2-4),0,14.4542,7.2271,2,0,U,Cherbourg
+242,1,3,female,18.0,1,Teen (13-18),Miss,1,0,2,Small (2-4),0,15.5,7.75,2,0,U,Queenstown
+243,0,2,male,29.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+244,0,3,male,22.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.125,7.125,1,0,U,Southampton
+245,0,3,male,30.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.225,7.225,1,0,U,Cherbourg
+246,0,1,male,44.0,0,Adult (31-50),Rare,2,0,3,Small (2-4),0,90.0,45.0,2,1,C,Queenstown
+247,0,3,female,25.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,7.775,7.775,1,0,U,Southampton
+248,1,2,female,24.0,0,Young adult (19-30),Mrs,0,2,3,Small (2-4),0,14.5,7.25,2,0,U,Southampton
+249,1,1,male,37.0,0,Adult (31-50),Mr,1,1,3,Small (2-4),0,52.5542,26.2771,2,1,D,Southampton
+250,0,2,male,54.0,0,Senior (51+),Rare,1,0,2,Small (2-4),0,26.0,13.0,2,0,U,Southampton
+251,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.25,7.25,1,0,U,Southampton
+252,0,3,female,29.0,0,Young adult (19-30),Mrs,1,1,3,Small (2-4),0,10.4625,5.23125,2,1,G,Southampton
+253,0,1,male,62.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,26.55,26.55,1,1,C,Southampton
+254,0,3,male,30.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,16.1,8.05,2,0,U,Southampton
+255,0,3,female,41.0,0,Adult (31-50),Mrs,0,2,3,Small (2-4),0,20.2125,10.10625,2,0,U,Southampton
+256,1,3,female,29.0,0,Young adult (19-30),Mrs,0,2,3,Small (2-4),0,15.2458,15.2458,1,0,U,Cherbourg
+257,1,1,female,40.0,1,Adult (31-50),Mrs,0,0,1,Alone (1),1,79.2,79.2,1,0,U,Cherbourg
+258,1,1,female,30.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,86.5,28.833333333333332,3,1,B,Southampton
+259,1,1,female,35.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,512.3292,170.7764,3,0,U,Cherbourg
+260,1,2,female,50.0,0,Adult (31-50),Mrs,0,1,2,Small (2-4),0,26.0,13.0,2,0,U,Southampton
+261,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+262,1,3,male,3.0,0,Child (0-12),Master,4,2,7,Large (5+),0,31.3875,7.846875,4,0,U,Southampton
+263,0,1,male,52.0,0,Senior (51+),Mr,1,1,3,Small (2-4),0,79.65,26.55,3,1,E,Southampton
+264,0,1,male,40.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,0.0,0.0,1,1,B,Southampton
+265,0,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+266,0,2,male,36.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+267,0,3,male,16.0,0,Teen (13-18),Mr,4,1,6,Large (5+),0,39.6875,6.614583333333333,6,0,U,Southampton
+268,1,3,male,25.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,7.775,7.775,1,0,U,Southampton
+269,1,1,female,58.0,0,Senior (51+),Mrs,0,1,2,Small (2-4),0,153.4625,51.15416666666667,3,1,C,Southampton
+270,1,1,female,35.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,135.6333,45.211099999999995,3,1,C,Southampton
+271,0,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,31.0,15.5,2,0,U,Southampton
+272,1,3,male,25.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,0.0,0.0,4,0,U,Southampton
+273,1,2,female,41.0,0,Adult (31-50),Mrs,0,1,2,Small (2-4),0,19.5,9.75,2,0,U,Southampton
+274,0,1,male,37.0,0,Adult (31-50),Mr,0,1,2,Small (2-4),0,29.7,29.7,1,1,C,Cherbourg
+275,1,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+276,1,1,female,63.0,0,Senior (51+),Miss,1,0,2,Small (2-4),0,77.9583,25.986099999999997,3,1,D,Southampton
+277,0,3,female,45.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Southampton
+278,0,2,male,31.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,0.0,0.0,3,0,U,Southampton
+279,0,3,male,7.0,0,Child (0-12),Master,4,1,6,Large (5+),0,29.125,5.825,5,0,U,Queenstown
+280,1,3,female,35.0,0,Adult (31-50),Mrs,1,1,3,Small (2-4),0,20.25,10.125,2,0,U,Southampton
+281,0,3,male,65.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+282,0,3,male,28.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8542,7.8542,1,0,U,Southampton
+283,0,3,male,16.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,9.5,9.5,1,0,U,Southampton
+284,1,3,male,19.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+285,0,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,26.0,26.0,1,1,A,Southampton
+286,0,3,male,33.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.6625,8.6625,1,0,U,Cherbourg
+287,1,3,male,30.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,9.5,9.5,1,0,U,Southampton
+288,0,3,male,22.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+289,1,2,male,42.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+290,1,3,female,22.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+291,1,1,female,26.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,78.85,39.425,2,0,U,Southampton
+292,1,1,female,19.0,0,Young adult (19-30),Mrs,1,0,2,Small (2-4),0,91.0792,45.5396,2,1,B,Cherbourg
+293,0,2,male,36.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,12.875,12.875,1,1,D,Cherbourg
+294,0,3,female,24.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,8.85,8.85,1,0,U,Southampton
+295,0,3,male,24.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+296,0,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,27.7208,27.7208,1,0,U,Cherbourg
+297,0,3,male,23.5,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.2292,7.2292,1,0,U,Cherbourg
+298,0,1,female,2.0,0,Child (0-12),Miss,1,2,4,Small (2-4),0,151.55,37.8875,4,1,C,Southampton
+299,1,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,30.5,30.5,1,1,C,Southampton
+300,1,1,female,50.0,0,Adult (31-50),Mrs,0,1,2,Small (2-4),0,247.5208,123.7604,2,1,B,Cherbourg
+301,1,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+302,1,3,male,26.0,1,Young adult (19-30),Mr,2,0,3,Small (2-4),0,23.25,11.625,2,0,U,Queenstown
+303,0,3,male,19.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,0.0,0.0,4,0,U,Southampton
+304,1,2,female,24.0,1,Young adult (19-30),Miss,0,0,1,Alone (1),1,12.35,12.35,1,1,E,Queenstown
+305,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+306,1,1,male,0.92,0,Child (0-12),Master,1,2,4,Small (2-4),0,151.55,37.8875,4,1,C,Southampton
+307,1,1,female,30.0,1,Young adult (19-30),Miss,0,0,1,Alone (1),1,110.8833,27.720825,4,0,U,Cherbourg
+308,1,1,female,17.0,0,Teen (13-18),Mrs,1,0,2,Small (2-4),0,108.9,54.45,2,1,C,Cherbourg
+309,0,2,male,30.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,24.0,12.0,2,0,U,Cherbourg
+310,1,1,female,30.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,56.9292,28.4646,2,1,E,Cherbourg
+311,1,1,female,24.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,83.1583,41.57915,2,1,C,Cherbourg
+312,1,1,female,18.0,0,Teen (13-18),Miss,2,2,5,Large (5+),0,262.375,131.1875,2,1,B,Cherbourg
+313,0,2,female,26.0,0,Young adult (19-30),Mrs,1,1,3,Small (2-4),0,26.0,26.0,1,0,U,Southampton
+314,0,3,male,28.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+315,0,2,male,43.0,0,Adult (31-50),Mr,1,1,3,Small (2-4),0,26.25,8.75,3,0,U,Southampton
+316,1,3,female,26.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,7.8542,7.8542,1,0,U,Southampton
+317,1,2,female,24.0,0,Young adult (19-30),Mrs,1,0,2,Small (2-4),0,26.0,13.0,2,0,U,Southampton
+318,0,2,male,54.0,0,Senior (51+),Rare,0,0,1,Alone (1),1,14.0,14.0,1,0,U,Southampton
+319,1,1,female,31.0,0,Adult (31-50),Miss,0,2,3,Small (2-4),0,164.8667,82.43335,2,1,C,Southampton
+320,1,1,female,40.0,0,Adult (31-50),Mrs,1,1,3,Small (2-4),0,134.5,67.25,2,1,E,Cherbourg
+321,0,3,male,22.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.25,7.25,1,0,U,Southampton
+322,0,3,male,27.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+323,1,2,female,30.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,12.35,12.35,1,0,U,Queenstown
+324,1,2,female,22.0,0,Young adult (19-30),Mrs,1,1,3,Small (2-4),0,29.0,14.5,2,0,U,Southampton
+325,0,3,male,26.0,1,Young adult (19-30),Mr,8,2,11,Large (5+),0,69.55,9.935714285714285,7,0,U,Southampton
+326,1,1,female,36.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,135.6333,45.211099999999995,3,1,C,Cherbourg
+327,0,3,male,61.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,6.2375,6.2375,1,0,U,Southampton
+328,1,2,female,36.0,0,Adult (31-50),Mrs,0,0,1,Alone (1),1,13.0,13.0,1,1,D,Southampton
+329,1,3,female,31.0,0,Adult (31-50),Mrs,1,1,3,Small (2-4),0,20.525,6.841666666666666,3,0,U,Southampton
+330,1,1,female,16.0,0,Teen (13-18),Miss,0,1,2,Small (2-4),0,57.9792,28.9896,2,1,B,Cherbourg
+331,1,3,female,18.0,1,Teen (13-18),Miss,2,0,3,Small (2-4),0,23.25,11.625,2,0,U,Queenstown
+332,0,1,male,45.5,0,Adult (31-50),Mr,0,0,1,Alone (1),1,28.5,28.5,1,1,C,Southampton
+333,0,1,male,38.0,0,Adult (31-50),Mr,0,1,2,Small (2-4),0,153.4625,51.15416666666667,3,1,C,Southampton
+334,0,3,male,16.0,0,Teen (13-18),Mr,2,0,3,Small (2-4),0,18.0,9.0,2,0,U,Southampton
+335,1,1,female,40.0,1,Adult (31-50),Mrs,1,0,2,Small (2-4),0,133.65,66.825,2,0,U,Southampton
+336,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+337,0,1,male,29.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,66.6,33.3,2,1,C,Southampton
+338,1,1,female,41.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,134.5,67.25,2,1,E,Cherbourg
+339,1,3,male,45.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+340,0,1,male,45.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,35.5,35.5,1,1,T,Southampton
+341,1,2,male,2.0,0,Child (0-12),Master,1,1,3,Small (2-4),0,26.0,8.666666666666666,3,1,F,Southampton
+342,1,1,female,24.0,0,Young adult (19-30),Miss,3,2,6,Large (5+),0,263.0,65.75,4,1,C,Southampton
+343,0,2,male,28.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+344,0,2,male,25.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+345,0,2,male,36.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+346,1,2,female,24.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,13.0,13.0,1,1,F,Southampton
+347,1,2,female,40.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+348,1,3,female,31.0,1,Adult (31-50),Mrs,1,0,2,Small (2-4),0,16.1,16.1,1,0,U,Southampton
+349,1,3,male,3.0,0,Child (0-12),Master,1,1,3,Small (2-4),0,15.9,7.95,2,0,U,Southampton
+350,0,3,male,42.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.6625,8.6625,1,0,U,Southampton
+351,0,3,male,23.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,9.225,9.225,1,0,U,Southampton
+352,0,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,35.0,35.0,1,1,C,Southampton
+353,0,3,male,15.0,0,Teen (13-18),Mr,1,1,3,Small (2-4),0,7.2292,7.2292,1,0,U,Cherbourg
+354,0,3,male,25.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,17.8,8.9,2,0,U,Southampton
+355,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.225,7.225,1,0,U,Cherbourg
+356,0,3,male,28.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,9.5,9.5,1,0,U,Southampton
+357,1,1,female,22.0,0,Young adult (19-30),Miss,0,1,2,Small (2-4),0,55.0,27.5,2,1,E,Southampton
+358,0,2,female,38.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+359,1,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.8792,7.8792,1,0,U,Queenstown
+360,1,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.8792,7.8792,1,0,U,Queenstown
+361,0,3,male,40.0,0,Adult (31-50),Mr,1,4,6,Large (5+),0,27.9,4.6499999999999995,6,0,U,Southampton
+362,0,2,male,29.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,27.7208,27.7208,1,0,U,Cherbourg
+363,0,3,female,45.0,0,Adult (31-50),Mrs,0,1,2,Small (2-4),0,14.4542,7.2271,2,0,U,Cherbourg
+364,0,3,male,35.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.05,7.05,1,0,U,Southampton
+365,0,3,male,26.0,1,Young adult (19-30),Mr,1,0,2,Small (2-4),0,15.5,7.75,2,0,U,Queenstown
+366,0,3,male,30.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.25,7.25,1,0,U,Southampton
+367,1,1,female,60.0,0,Senior (51+),Mrs,1,0,2,Small (2-4),0,75.25,75.25,1,1,D,Cherbourg
+368,1,3,female,31.0,1,Adult (31-50),Mrs,0,0,1,Alone (1),1,7.2292,7.2292,1,0,U,Cherbourg
+369,1,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+370,1,1,female,24.0,0,Young adult (19-30),Mrs,0,0,1,Alone (1),1,69.3,34.65,2,1,B,Cherbourg
+371,1,1,male,25.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,55.4417,55.4417,1,1,E,Cherbourg
+372,0,3,male,18.0,0,Teen (13-18),Mr,1,0,2,Small (2-4),0,6.4958,6.4958,1,0,U,Southampton
+373,0,3,male,19.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+374,0,1,male,22.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,135.6333,45.211099999999995,3,0,U,Cherbourg
+375,0,3,female,3.0,0,Child (0-12),Miss,3,1,5,Large (5+),0,21.075,5.26875,4,0,U,Southampton
+376,1,1,female,40.0,1,Adult (31-50),Mrs,1,0,2,Small (2-4),0,82.1708,41.0854,2,0,U,Cherbourg
+377,1,3,female,22.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,7.25,7.25,1,0,U,Southampton
+378,0,1,male,27.0,0,Young adult (19-30),Mr,0,2,3,Small (2-4),0,211.5,211.5,1,1,C,Cherbourg
+379,0,3,male,20.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,4.0125,4.0125,1,0,U,Cherbourg
+380,0,3,male,19.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.775,7.775,1,0,U,Southampton
+381,1,1,female,42.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,227.525,56.88125,4,0,U,Cherbourg
+382,1,3,female,1.0,0,Child (0-12),Miss,0,2,3,Small (2-4),0,15.7417,7.87085,2,0,U,Cherbourg
+383,0,3,male,32.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.925,7.925,1,0,U,Southampton
+384,1,1,female,35.0,0,Adult (31-50),Mrs,1,0,2,Small (2-4),0,52.0,26.0,2,0,U,Southampton
+385,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+386,0,2,male,18.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,73.5,14.7,5,0,U,Southampton
+387,0,3,male,1.0,0,Child (0-12),Master,5,2,8,Large (5+),0,46.9,7.816666666666666,6,0,U,Southampton
+388,1,2,female,36.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+389,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.7292,7.7292,1,0,U,Queenstown
+390,1,2,female,17.0,0,Teen (13-18),Miss,0,0,1,Alone (1),1,12.0,12.0,1,0,U,Cherbourg
+391,1,1,male,36.0,0,Adult (31-50),Mr,1,2,4,Small (2-4),0,120.0,30.0,4,1,B,Southampton
+392,1,3,male,21.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.7958,7.7958,1,0,U,Southampton
+393,0,3,male,28.0,0,Young adult (19-30),Mr,2,0,3,Small (2-4),0,7.925,7.925,1,0,U,Southampton
+394,1,1,female,23.0,0,Young adult (19-30),Miss,1,0,2,Small (2-4),0,113.275,37.75833333333333,3,1,D,Cherbourg
+395,1,3,female,24.0,0,Young adult (19-30),Mrs,0,2,3,Small (2-4),0,16.7,8.35,2,1,G,Southampton
+396,0,3,male,22.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.7958,7.7958,1,0,U,Southampton
+397,0,3,female,31.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,7.8542,7.8542,1,0,U,Southampton
+398,0,2,male,46.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,26.0,13.0,2,0,U,Southampton
+399,0,2,male,23.0,0,Young adult (19-30),Rare,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+400,1,2,female,28.0,0,Young adult (19-30),Mrs,0,0,1,Alone (1),1,12.65,12.65,1,0,U,Southampton
+401,1,3,male,39.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.925,7.925,1,0,U,Southampton
+402,0,3,male,26.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+403,0,3,female,21.0,0,Young adult (19-30),Miss,1,0,2,Small (2-4),0,9.825,9.825,1,0,U,Southampton
+404,0,3,male,28.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,15.85,7.925,2,0,U,Southampton
+405,0,3,female,20.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,8.6625,8.6625,1,0,U,Southampton
+406,0,2,male,34.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,21.0,21.0,1,0,U,Southampton
+407,0,3,male,51.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Southampton
+408,1,2,male,3.0,0,Child (0-12),Master,1,1,3,Small (2-4),0,18.75,6.25,3,0,U,Southampton
+409,0,3,male,21.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.775,7.775,1,0,U,Southampton
+410,0,3,female,18.0,1,Teen (13-18),Miss,3,1,5,Large (5+),0,25.4667,6.366675,4,0,U,Southampton
+411,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+412,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,6.8583,6.8583,1,0,U,Queenstown
+413,1,1,female,33.0,0,Adult (31-50),Miss,1,0,2,Small (2-4),0,90.0,45.0,2,1,C,Queenstown
+414,0,2,male,31.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,0.0,0.0,3,0,U,Southampton
+415,1,3,male,44.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.925,7.925,1,0,U,Southampton
+416,0,3,female,31.0,1,Adult (31-50),Mrs,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+417,1,2,female,34.0,0,Adult (31-50),Mrs,1,1,3,Small (2-4),0,32.5,32.5,1,0,U,Southampton
+418,1,2,female,18.0,0,Teen (13-18),Miss,0,2,3,Small (2-4),0,13.0,13.0,1,0,U,Southampton
+419,0,2,male,30.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+420,0,3,female,10.0,0,Child (0-12),Miss,0,2,3,Small (2-4),0,24.15,8.049999999999999,3,0,U,Southampton
+421,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Cherbourg
+422,0,3,male,21.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.7333,7.7333,1,0,U,Queenstown
+423,0,3,male,29.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.875,7.875,1,0,U,Southampton
+424,0,3,female,28.0,0,Young adult (19-30),Mrs,1,1,3,Small (2-4),0,14.4,7.2,2,0,U,Southampton
+425,0,3,male,18.0,0,Teen (13-18),Mr,1,1,3,Small (2-4),0,20.2125,10.10625,2,0,U,Southampton
+426,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.25,7.25,1,0,U,Southampton
+427,1,2,female,28.0,0,Young adult (19-30),Mrs,1,0,2,Small (2-4),0,26.0,26.0,1,0,U,Southampton
+428,1,2,female,19.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,26.0,13.0,2,0,U,Southampton
+429,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+430,1,3,male,32.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.05,8.05,1,1,E,Southampton
+431,1,1,male,28.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,26.55,26.55,1,1,C,Southampton
+432,1,3,female,31.0,1,Adult (31-50),Mrs,1,0,2,Small (2-4),0,16.1,8.05,2,0,U,Southampton
+433,1,2,female,42.0,0,Adult (31-50),Mrs,1,0,2,Small (2-4),0,26.0,26.0,1,0,U,Southampton
+434,0,3,male,17.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,7.125,7.125,1,0,U,Southampton
+435,0,1,male,50.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,55.9,27.95,2,1,E,Southampton
+436,1,1,female,14.0,0,Teen (13-18),Miss,1,2,4,Small (2-4),0,120.0,30.0,4,1,B,Southampton
+437,0,3,female,21.0,0,Young adult (19-30),Miss,2,2,5,Large (5+),0,34.375,8.59375,4,0,U,Southampton
+438,1,2,female,24.0,0,Young adult (19-30),Mrs,2,3,6,Large (5+),0,18.75,6.25,3,0,U,Southampton
+439,0,1,male,64.0,0,Senior (51+),Mr,1,4,6,Large (5+),0,263.0,65.75,4,1,C,Southampton
+440,0,2,male,31.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+441,1,2,female,45.0,0,Adult (31-50),Mrs,1,1,3,Small (2-4),0,26.25,8.75,3,0,U,Southampton
+442,0,3,male,20.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,9.5,9.5,1,0,U,Southampton
+443,0,3,male,25.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,7.775,7.775,1,0,U,Southampton
+444,1,2,female,28.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+445,1,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.1125,8.1125,1,0,U,Southampton
+446,1,1,male,4.0,0,Child (0-12),Master,0,2,3,Small (2-4),0,81.8583,81.8583,1,1,A,Southampton
+447,1,2,female,13.0,0,Teen (13-18),Miss,0,1,2,Small (2-4),0,19.5,9.75,2,0,U,Southampton
+448,1,1,male,34.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,26.55,26.55,1,0,U,Southampton
+449,1,3,female,5.0,0,Child (0-12),Miss,2,1,4,Small (2-4),0,19.2583,4.814575,4,0,U,Cherbourg
+450,1,1,male,52.0,0,Senior (51+),Rare,0,0,1,Alone (1),1,30.5,30.5,1,1,C,Southampton
+451,0,2,male,36.0,0,Adult (31-50),Mr,1,2,4,Small (2-4),0,27.75,9.25,3,0,U,Southampton
+452,0,3,male,26.0,1,Young adult (19-30),Mr,1,0,2,Small (2-4),0,19.9667,19.9667,1,0,U,Southampton
+453,0,1,male,30.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,27.75,27.75,1,1,C,Cherbourg
+454,1,1,male,49.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,89.1042,44.5521,2,1,C,Cherbourg
+455,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+456,1,3,male,29.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Cherbourg
+457,0,1,male,65.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,26.55,26.55,1,1,E,Southampton
+458,1,1,female,40.0,1,Adult (31-50),Mrs,1,0,2,Small (2-4),0,51.8625,51.8625,1,1,D,Southampton
+459,1,2,female,50.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+460,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+461,1,1,male,48.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,26.55,26.55,1,1,E,Southampton
+462,0,3,male,34.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+463,0,1,male,47.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,38.5,38.5,1,1,E,Southampton
+464,0,2,male,48.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+465,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+466,0,3,male,38.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.05,7.05,1,0,U,Southampton
+467,0,2,male,31.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,0.0,0.0,3,0,U,Southampton
+468,0,1,male,56.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,26.55,26.55,1,0,U,Southampton
+469,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.725,7.725,1,0,U,Queenstown
+470,1,3,female,0.75,0,Child (0-12),Miss,2,1,4,Small (2-4),0,19.2583,4.814575,4,0,U,Cherbourg
+471,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.25,7.25,1,0,U,Southampton
+472,0,3,male,38.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.6625,8.6625,1,0,U,Southampton
+473,1,2,female,33.0,0,Adult (31-50),Mrs,1,2,4,Small (2-4),0,27.75,9.25,3,0,U,Southampton
+474,1,2,female,23.0,0,Young adult (19-30),Mrs,0,0,1,Alone (1),1,13.7917,13.7917,1,1,D,Cherbourg
+475,0,3,female,22.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,9.8375,9.8375,1,0,U,Southampton
+476,0,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,52.0,26.0,2,1,A,Southampton
+477,0,2,male,34.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,21.0,10.5,2,0,U,Southampton
+478,0,3,male,29.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,7.0458,7.0458,1,0,U,Southampton
+479,0,3,male,22.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.5208,7.5208,1,0,U,Southampton
+480,1,3,female,2.0,0,Child (0-12),Miss,0,1,2,Small (2-4),0,12.2875,12.2875,1,0,U,Southampton
+481,0,3,male,9.0,0,Child (0-12),Master,5,2,8,Large (5+),0,46.9,7.816666666666666,6,0,U,Southampton
+482,0,2,male,31.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,0.0,0.0,1,0,U,Southampton
+483,0,3,male,50.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+484,1,3,female,63.0,0,Senior (51+),Mrs,0,0,1,Alone (1),1,9.5875,9.5875,1,0,U,Southampton
+485,1,1,male,25.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,91.0792,45.5396,2,1,B,Cherbourg
+486,0,3,female,18.0,1,Teen (13-18),Miss,3,1,5,Large (5+),0,25.4667,6.366675,4,0,U,Southampton
+487,1,1,female,35.0,0,Adult (31-50),Mrs,1,0,2,Small (2-4),0,90.0,45.0,2,1,C,Southampton
+488,0,1,male,58.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,29.7,29.7,1,1,B,Cherbourg
+489,0,3,male,30.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+490,1,3,male,9.0,0,Child (0-12),Master,1,1,3,Small (2-4),0,15.9,7.95,2,0,U,Southampton
+491,0,3,male,26.0,1,Young adult (19-30),Mr,1,0,2,Small (2-4),0,19.9667,19.9667,1,0,U,Southampton
+492,0,3,male,21.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.25,7.25,1,0,U,Southampton
+493,0,1,male,55.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,30.5,30.5,1,1,C,Southampton
+494,0,1,male,71.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,49.5042,49.5042,1,0,U,Cherbourg
+495,0,3,male,21.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+496,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,14.4583,7.22915,2,0,U,Cherbourg
+497,1,1,female,54.0,0,Senior (51+),Miss,1,0,2,Small (2-4),0,78.2667,39.13335,2,1,D,Cherbourg
+498,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,15.1,15.1,1,0,U,Southampton
+499,0,1,female,25.0,0,Young adult (19-30),Mrs,1,2,4,Small (2-4),0,151.55,37.8875,4,1,C,Southampton
+500,0,3,male,24.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.7958,7.7958,1,0,U,Southampton
+501,0,3,male,17.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,8.6625,8.6625,1,0,U,Southampton
+502,0,3,female,21.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+503,0,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.6292,7.6292,1,0,U,Queenstown
+504,0,3,female,37.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,9.5875,9.5875,1,0,U,Southampton
+505,1,1,female,16.0,0,Teen (13-18),Miss,0,0,1,Alone (1),1,86.5,28.833333333333332,3,1,B,Southampton
+506,0,1,male,18.0,0,Teen (13-18),Mr,1,0,2,Small (2-4),0,108.9,54.45,2,1,C,Cherbourg
+507,1,2,female,33.0,0,Adult (31-50),Mrs,0,2,3,Small (2-4),0,26.0,13.0,2,0,U,Southampton
+508,1,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,26.55,26.55,1,0,U,Southampton
+509,0,3,male,28.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,22.525,22.525,1,0,U,Southampton
+510,1,3,male,26.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,56.4958,8.070828571428573,7,0,U,Southampton
+511,1,3,male,29.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+512,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+513,1,1,male,36.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,26.2875,26.2875,1,1,E,Southampton
+514,1,1,female,54.0,0,Senior (51+),Mrs,1,0,2,Small (2-4),0,59.4,59.4,1,0,U,Cherbourg
+515,0,3,male,24.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.4958,7.4958,1,0,U,Southampton
+516,0,1,male,47.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,34.0208,34.0208,1,1,D,Southampton
+517,1,2,female,34.0,0,Adult (31-50),Mrs,0,0,1,Alone (1),1,10.5,10.5,1,1,F,Southampton
+518,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,24.15,8.049999999999999,3,0,U,Queenstown
+519,1,2,female,36.0,0,Adult (31-50),Mrs,1,0,2,Small (2-4),0,26.0,26.0,1,0,U,Southampton
+520,0,3,male,32.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+521,1,1,female,30.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,93.5,46.75,2,1,B,Southampton
+522,0,3,male,22.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+523,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.225,7.225,1,0,U,Cherbourg
+524,1,1,female,44.0,0,Adult (31-50),Mrs,0,1,2,Small (2-4),0,57.9792,28.9896,2,1,B,Cherbourg
+525,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.2292,7.2292,1,0,U,Cherbourg
+526,0,3,male,40.5,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+527,1,2,female,50.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+528,0,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,221.7792,221.7792,1,1,C,Southampton
+529,0,3,male,39.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.925,7.925,1,0,U,Southampton
+530,0,2,male,23.0,0,Young adult (19-30),Mr,2,1,4,Small (2-4),0,11.5,11.5,1,0,U,Southampton
+531,1,2,female,2.0,0,Child (0-12),Miss,1,1,3,Small (2-4),0,26.0,13.0,2,0,U,Southampton
+532,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.2292,7.2292,1,0,U,Cherbourg
+533,0,3,male,17.0,0,Teen (13-18),Mr,1,1,3,Small (2-4),0,7.2292,7.2292,1,0,U,Cherbourg
+534,1,3,female,31.0,1,Adult (31-50),Mrs,0,2,3,Small (2-4),0,22.3583,11.17915,2,0,U,Cherbourg
+535,0,3,female,30.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,8.6625,8.6625,1,0,U,Southampton
+536,1,2,female,7.0,0,Child (0-12),Miss,0,2,3,Small (2-4),0,26.25,8.75,3,0,U,Southampton
+537,0,1,male,45.0,0,Adult (31-50),Rare,0,0,1,Alone (1),1,26.55,26.55,1,1,B,Southampton
+538,1,1,female,30.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,106.425,53.2125,2,0,U,Cherbourg
+539,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,14.5,14.5,1,0,U,Southampton
+540,1,1,female,22.0,0,Young adult (19-30),Miss,0,2,3,Small (2-4),0,49.5,49.5,1,1,B,Cherbourg
+541,1,1,female,36.0,0,Adult (31-50),Miss,0,2,3,Small (2-4),0,71.0,35.5,2,1,B,Southampton
+542,0,3,female,9.0,0,Child (0-12),Miss,4,2,7,Large (5+),0,31.275,4.4678571428571425,7,0,U,Southampton
+543,0,3,female,11.0,0,Child (0-12),Miss,4,2,7,Large (5+),0,31.275,4.4678571428571425,7,0,U,Southampton
+544,1,2,male,32.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,26.0,13.0,2,0,U,Southampton
+545,0,1,male,50.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,106.425,53.2125,2,1,C,Cherbourg
+546,0,1,male,64.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,26.0,26.0,1,0,U,Southampton
+547,1,2,female,19.0,0,Young adult (19-30),Mrs,1,0,2,Small (2-4),0,26.0,13.0,2,0,U,Southampton
+548,1,2,male,31.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,13.8625,13.8625,1,0,U,Cherbourg
+549,0,3,male,33.0,0,Adult (31-50),Mr,1,1,3,Small (2-4),0,20.525,6.841666666666666,3,0,U,Southampton
+550,1,2,male,8.0,0,Child (0-12),Master,1,1,3,Small (2-4),0,36.75,18.375,2,0,U,Southampton
+551,1,1,male,17.0,0,Teen (13-18),Mr,0,2,3,Small (2-4),0,110.8833,27.720825,4,1,C,Cherbourg
+552,0,2,male,27.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,26.0,26.0,1,0,U,Southampton
+553,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8292,7.8292,1,0,U,Queenstown
+554,1,3,male,22.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.225,7.225,1,0,U,Cherbourg
+555,1,3,female,22.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,7.775,7.775,1,0,U,Southampton
+556,0,1,male,62.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,26.55,26.55,1,0,U,Southampton
+557,1,1,female,48.0,0,Adult (31-50),Rare,1,0,2,Small (2-4),0,39.6,39.6,1,1,A,Cherbourg
+558,0,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,227.525,56.88125,4,0,U,Cherbourg
+559,1,1,female,39.0,0,Adult (31-50),Mrs,1,1,3,Small (2-4),0,79.65,26.55,3,1,E,Southampton
+560,1,3,female,36.0,0,Adult (31-50),Mrs,1,0,2,Small (2-4),0,17.4,17.4,1,0,U,Southampton
+561,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+562,0,3,male,40.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+563,0,2,male,28.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,13.5,13.5,1,0,U,Southampton
+564,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+565,0,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+566,0,3,male,24.0,0,Young adult (19-30),Mr,2,0,3,Small (2-4),0,24.15,12.075,2,0,U,Southampton
+567,0,3,male,19.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+568,0,3,female,29.0,0,Young adult (19-30),Mrs,0,4,5,Large (5+),0,21.075,5.26875,4,0,U,Southampton
+569,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.2292,7.2292,1,0,U,Cherbourg
+570,1,3,male,32.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.8542,7.8542,1,0,U,Southampton
+571,1,2,male,62.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+572,1,1,female,53.0,0,Senior (51+),Mrs,2,0,3,Small (2-4),0,51.4792,51.4792,1,1,C,Southampton
+573,1,1,male,36.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,26.3875,26.3875,1,1,E,Southampton
+574,1,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+575,0,3,male,16.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+576,0,3,male,19.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,14.5,7.25,2,0,U,Southampton
+577,1,2,female,34.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+578,1,1,female,39.0,0,Adult (31-50),Mrs,1,0,2,Small (2-4),0,55.9,27.95,2,1,E,Southampton
+579,0,3,female,31.0,1,Adult (31-50),Mrs,1,0,2,Small (2-4),0,14.4583,14.4583,1,0,U,Cherbourg
+580,1,3,male,32.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.925,7.925,1,0,U,Southampton
+581,1,2,female,25.0,0,Young adult (19-30),Miss,1,1,3,Small (2-4),0,30.0,30.0,1,0,U,Southampton
+582,1,1,female,39.0,0,Adult (31-50),Mrs,1,1,3,Small (2-4),0,110.8833,27.720825,4,1,C,Cherbourg
+583,0,2,male,54.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,26.0,13.0,2,0,U,Southampton
+584,0,1,male,36.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,40.125,40.125,1,1,A,Cherbourg
+585,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.7125,8.7125,1,0,U,Cherbourg
+586,1,1,female,18.0,0,Teen (13-18),Miss,0,2,3,Small (2-4),0,79.65,26.55,3,1,E,Southampton
+587,0,2,male,47.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,15.0,15.0,1,0,U,Southampton
+588,1,1,male,60.0,0,Senior (51+),Mr,1,1,3,Small (2-4),0,79.2,79.2,1,1,B,Cherbourg
+589,0,3,male,22.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+590,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+591,0,3,male,35.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.125,7.125,1,0,U,Southampton
+592,1,1,female,52.0,0,Senior (51+),Mrs,1,0,2,Small (2-4),0,78.2667,39.13335,2,1,D,Cherbourg
+593,0,3,male,47.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.25,7.25,1,0,U,Southampton
+594,0,3,female,18.0,1,Teen (13-18),Miss,0,2,3,Small (2-4),0,7.75,7.75,1,0,U,Queenstown
+595,0,2,male,37.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,26.0,26.0,1,0,U,Southampton
+596,0,3,male,36.0,0,Adult (31-50),Mr,1,1,3,Small (2-4),0,24.15,8.049999999999999,3,0,U,Southampton
+597,1,2,female,24.0,1,Young adult (19-30),Miss,0,0,1,Alone (1),1,33.0,11.0,3,0,U,Southampton
+598,0,3,male,49.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,0.0,0.0,4,0,U,Southampton
+599,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.225,7.225,1,0,U,Cherbourg
+600,1,1,male,49.0,0,Adult (31-50),Rare,1,0,2,Small (2-4),0,56.9292,28.4646,2,1,A,Cherbourg
+601,1,2,female,24.0,0,Young adult (19-30),Mrs,2,1,4,Small (2-4),0,27.0,13.5,2,0,U,Southampton
+602,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+603,0,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,42.4,42.4,1,0,U,Southampton
+604,0,3,male,44.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+605,1,1,male,35.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,26.55,26.55,1,0,U,Cherbourg
+606,0,3,male,36.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,15.55,15.55,1,0,U,Southampton
+607,0,3,male,30.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+608,1,1,male,27.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,30.5,30.5,1,0,U,Southampton
+609,1,2,female,22.0,0,Young adult (19-30),Mrs,1,2,4,Small (2-4),0,41.5792,13.859733333333333,3,0,U,Cherbourg
+610,1,1,female,40.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,153.4625,51.15416666666667,3,1,C,Southampton
+611,0,3,female,39.0,0,Adult (31-50),Mrs,1,5,7,Large (5+),0,31.275,4.4678571428571425,7,0,U,Southampton
+612,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.05,7.05,1,0,U,Southampton
+613,1,3,female,18.0,1,Teen (13-18),Miss,1,0,2,Small (2-4),0,15.5,7.75,2,0,U,Queenstown
+614,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+615,0,3,male,35.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+616,1,2,female,24.0,0,Young adult (19-30),Miss,1,2,4,Small (2-4),0,65.0,32.5,2,0,U,Southampton
+617,0,3,male,34.0,0,Adult (31-50),Mr,1,1,3,Small (2-4),0,14.4,7.2,2,0,U,Southampton
+618,0,3,female,26.0,0,Young adult (19-30),Mrs,1,0,2,Small (2-4),0,16.1,8.05,2,0,U,Southampton
+619,1,2,female,4.0,0,Child (0-12),Miss,2,1,4,Small (2-4),0,39.0,19.5,2,1,F,Southampton
+620,0,2,male,26.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+621,0,3,male,27.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,14.4542,7.2271,2,0,U,Cherbourg
+622,1,1,male,42.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,52.5542,52.5542,1,1,D,Southampton
+623,1,3,male,20.0,0,Young adult (19-30),Mr,1,1,3,Small (2-4),0,15.7417,7.87085,2,0,U,Cherbourg
+624,0,3,male,21.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8542,7.8542,1,0,U,Southampton
+625,0,3,male,21.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,16.1,8.05,2,0,U,Southampton
+626,0,1,male,61.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,32.3208,32.3208,1,1,D,Southampton
+627,0,2,male,57.0,0,Senior (51+),Rare,0,0,1,Alone (1),1,12.35,12.35,1,0,U,Queenstown
+628,1,1,female,21.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,77.9583,25.986099999999997,3,1,D,Southampton
+629,0,3,male,26.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+630,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.7333,7.7333,1,0,U,Queenstown
+631,1,1,male,80.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,30.0,30.0,1,1,A,Southampton
+632,0,3,male,51.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,7.0542,7.0542,1,0,U,Southampton
+633,1,1,male,32.0,0,Adult (31-50),Rare,0,0,1,Alone (1),1,30.5,30.5,1,1,B,Cherbourg
+634,0,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,0.0,0.0,1,0,U,Southampton
+635,0,3,female,9.0,0,Child (0-12),Miss,3,2,6,Large (5+),0,27.9,4.6499999999999995,6,0,U,Southampton
+636,1,2,female,28.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+637,0,3,male,32.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.925,7.925,1,0,U,Southampton
+638,0,2,male,31.0,0,Adult (31-50),Mr,1,1,3,Small (2-4),0,26.25,8.75,3,0,U,Southampton
+639,0,3,female,41.0,0,Adult (31-50),Mrs,0,5,6,Large (5+),0,39.6875,6.614583333333333,6,0,U,Southampton
+640,0,3,male,26.0,1,Young adult (19-30),Mr,1,0,2,Small (2-4),0,16.1,8.05,2,0,U,Southampton
+641,0,3,male,20.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8542,7.8542,1,0,U,Southampton
+642,1,1,female,24.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,69.3,34.65,2,1,B,Cherbourg
+643,0,3,female,2.0,0,Child (0-12),Miss,3,2,6,Large (5+),0,27.9,4.6499999999999995,6,0,U,Southampton
+644,1,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,56.4958,8.070828571428573,7,0,U,Southampton
+645,1,3,female,0.75,0,Child (0-12),Miss,2,1,4,Small (2-4),0,19.2583,4.814575,4,0,U,Cherbourg
+646,1,1,male,48.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,76.7292,25.576400000000003,3,1,D,Cherbourg
+647,0,3,male,19.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+648,1,1,male,56.0,0,Senior (51+),Rare,0,0,1,Alone (1),1,35.5,35.5,1,1,A,Cherbourg
+649,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.55,7.55,1,0,U,Southampton
+650,1,3,female,23.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,7.55,7.55,1,0,U,Southampton
+651,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+652,1,2,female,18.0,0,Teen (13-18),Miss,0,1,2,Small (2-4),0,23.0,11.5,2,0,U,Southampton
+653,0,3,male,21.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.4333,8.4333,1,0,U,Southampton
+654,1,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.8292,7.8292,1,0,U,Queenstown
+655,0,3,female,18.0,0,Teen (13-18),Miss,0,0,1,Alone (1),1,6.75,6.75,1,0,U,Queenstown
+656,0,2,male,24.0,0,Young adult (19-30),Mr,2,0,3,Small (2-4),0,73.5,14.7,5,0,U,Southampton
+657,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+658,0,3,female,32.0,0,Adult (31-50),Mrs,1,1,3,Small (2-4),0,15.5,7.75,2,0,U,Queenstown
+659,0,2,male,23.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+660,0,1,male,58.0,0,Senior (51+),Mr,0,2,3,Small (2-4),0,113.275,37.75833333333333,3,1,D,Cherbourg
+661,1,1,male,50.0,0,Adult (31-50),Rare,2,0,3,Small (2-4),0,133.65,66.825,2,0,U,Southampton
+662,0,3,male,40.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.225,7.225,1,0,U,Cherbourg
+663,0,1,male,47.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,25.5875,25.5875,1,1,E,Southampton
+664,0,3,male,36.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.4958,7.4958,1,0,U,Southampton
+665,1,3,male,20.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,7.925,7.925,1,0,U,Southampton
+666,0,2,male,32.0,0,Adult (31-50),Mr,2,0,3,Small (2-4),0,73.5,14.7,5,0,U,Southampton
+667,0,2,male,25.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+668,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.775,7.775,1,0,U,Southampton
+669,0,3,male,43.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+670,1,1,female,40.0,1,Adult (31-50),Mrs,1,0,2,Small (2-4),0,52.0,26.0,2,1,C,Southampton
+671,1,2,female,40.0,0,Adult (31-50),Mrs,1,1,3,Small (2-4),0,39.0,19.5,2,0,U,Southampton
+672,0,1,male,31.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,52.0,52.0,1,1,B,Southampton
+673,0,2,male,70.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+674,1,2,male,31.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+675,0,2,male,31.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,0.0,0.0,1,0,U,Southampton
+676,0,3,male,18.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,7.775,7.775,1,0,U,Southampton
+677,0,3,male,24.5,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+678,1,3,female,18.0,0,Teen (13-18),Miss,0,0,1,Alone (1),1,9.8417,9.8417,1,0,U,Southampton
+679,0,3,female,43.0,0,Adult (31-50),Mrs,1,6,8,Large (5+),0,46.9,7.816666666666666,6,0,U,Southampton
+680,1,1,male,36.0,0,Adult (31-50),Mr,0,1,2,Small (2-4),0,512.3292,170.7764,3,1,B,Cherbourg
+681,0,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,8.1375,8.1375,1,0,U,Queenstown
+682,1,1,male,27.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,76.7292,25.576400000000003,3,1,D,Cherbourg
+683,0,3,male,20.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,9.225,9.225,1,0,U,Southampton
+684,0,3,male,14.0,0,Teen (13-18),Mr,5,2,8,Large (5+),0,46.9,7.816666666666666,6,0,U,Southampton
+685,0,2,male,60.0,0,Senior (51+),Mr,1,1,3,Small (2-4),0,39.0,19.5,2,0,U,Southampton
+686,0,2,male,25.0,0,Young adult (19-30),Mr,1,2,4,Small (2-4),0,41.5792,13.859733333333333,3,0,U,Cherbourg
+687,0,3,male,14.0,0,Teen (13-18),Mr,4,1,6,Large (5+),0,39.6875,6.614583333333333,6,0,U,Southampton
+688,0,3,male,19.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,10.1708,10.1708,1,0,U,Southampton
+689,0,3,male,18.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,7.7958,7.7958,1,0,U,Southampton
+690,1,1,female,15.0,0,Teen (13-18),Miss,0,1,2,Small (2-4),0,211.3375,70.44583333333334,3,1,B,Southampton
+691,1,1,male,31.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,57.0,28.5,2,1,B,Southampton
+692,1,3,female,4.0,0,Child (0-12),Miss,0,1,2,Small (2-4),0,13.4167,13.4167,1,0,U,Cherbourg
+693,1,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,56.4958,8.070828571428573,7,0,U,Southampton
+694,0,3,male,25.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.225,7.225,1,0,U,Cherbourg
+695,0,1,male,60.0,0,Senior (51+),Rare,0,0,1,Alone (1),1,26.55,26.55,1,0,U,Southampton
+696,0,2,male,52.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,13.5,13.5,1,0,U,Southampton
+697,0,3,male,44.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+698,1,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.7333,7.7333,1,0,U,Queenstown
+699,0,1,male,49.0,0,Adult (31-50),Mr,1,1,3,Small (2-4),0,110.8833,27.720825,4,1,C,Cherbourg
+700,0,3,male,42.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.65,7.65,1,1,F,Southampton
+701,1,1,female,18.0,0,Teen (13-18),Mrs,1,0,2,Small (2-4),0,227.525,56.88125,4,1,C,Cherbourg
+702,1,1,male,35.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,26.2875,26.2875,1,1,E,Southampton
+703,0,3,female,18.0,0,Teen (13-18),Miss,0,1,2,Small (2-4),0,14.4542,7.2271,2,0,U,Cherbourg
+704,0,3,male,25.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.7417,7.7417,1,0,U,Queenstown
+705,0,3,male,26.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,7.8542,7.8542,1,0,U,Southampton
+706,0,2,male,39.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,26.0,13.0,2,0,U,Southampton
+707,1,2,female,45.0,0,Adult (31-50),Mrs,0,0,1,Alone (1),1,13.5,13.5,1,0,U,Southampton
+708,1,1,male,42.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,26.2875,26.2875,1,1,E,Southampton
+709,1,1,female,22.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,151.55,37.8875,4,0,U,Southampton
+710,1,3,male,4.0,1,Child (0-12),Master,1,1,3,Small (2-4),0,15.2458,7.6229,2,0,U,Cherbourg
+711,1,1,female,24.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,49.5042,49.5042,1,1,C,Cherbourg
+712,0,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,26.55,26.55,1,1,C,Southampton
+713,1,1,male,48.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,52.0,26.0,2,1,C,Southampton
+714,0,3,male,29.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,9.4833,9.4833,1,0,U,Southampton
+715,0,2,male,52.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,13.0,6.5,2,0,U,Southampton
+716,0,3,male,19.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.65,7.65,1,1,F,Southampton
+717,1,1,female,38.0,0,Adult (31-50),Miss,0,0,1,Alone (1),1,227.525,56.88125,4,1,C,Cherbourg
+718,1,2,female,27.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,10.5,10.5,1,1,E,Southampton
+719,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,15.5,15.5,1,0,U,Queenstown
+720,0,3,male,33.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.775,7.775,1,0,U,Southampton
+721,1,2,female,6.0,0,Child (0-12),Miss,0,1,2,Small (2-4),0,33.0,11.0,3,0,U,Southampton
+722,0,3,male,17.0,0,Teen (13-18),Mr,1,0,2,Small (2-4),0,7.0542,7.0542,1,0,U,Southampton
+723,0,2,male,34.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+724,0,2,male,50.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+725,1,1,male,27.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,53.1,26.55,2,1,E,Southampton
+726,0,3,male,20.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.6625,8.6625,1,0,U,Southampton
+727,1,2,female,30.0,0,Young adult (19-30),Mrs,3,0,4,Small (2-4),0,21.0,10.5,2,0,U,Southampton
+728,1,3,female,18.0,1,Teen (13-18),Miss,0,0,1,Alone (1),1,7.7375,7.7375,1,0,U,Queenstown
+729,0,2,male,25.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,26.0,26.0,1,0,U,Southampton
+730,0,3,female,25.0,0,Young adult (19-30),Miss,1,0,2,Small (2-4),0,7.925,7.925,1,0,U,Southampton
+731,1,1,female,29.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,211.3375,70.44583333333334,3,1,B,Southampton
+732,0,3,male,11.0,0,Child (0-12),Mr,0,0,1,Alone (1),1,18.7875,9.39375,2,0,U,Cherbourg
+733,0,2,male,31.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,0.0,0.0,1,0,U,Southampton
+734,0,2,male,23.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+735,0,2,male,23.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+736,0,3,male,28.5,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,16.1,8.05,2,0,U,Southampton
+737,0,3,female,48.0,0,Adult (31-50),Mrs,1,3,5,Large (5+),0,34.375,8.59375,4,0,U,Southampton
+738,1,1,male,35.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,512.3292,170.7764,3,1,B,Cherbourg
+739,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+740,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+741,1,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,30.0,30.0,1,1,D,Southampton
+742,0,1,male,36.0,0,Adult (31-50),Mr,1,0,2,Small (2-4),0,78.85,39.425,2,1,C,Southampton
+743,1,1,female,21.0,0,Young adult (19-30),Miss,2,2,5,Large (5+),0,262.375,131.1875,2,1,B,Cherbourg
+744,0,3,male,24.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,16.1,16.1,1,0,U,Southampton
+745,1,3,male,31.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.925,7.925,1,0,U,Southampton
+746,0,1,male,70.0,0,Senior (51+),Rare,1,1,3,Small (2-4),0,71.0,35.5,2,1,B,Southampton
+747,0,3,male,16.0,0,Teen (13-18),Mr,1,1,3,Small (2-4),0,20.25,10.125,2,0,U,Southampton
+748,1,2,female,30.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+749,0,1,male,19.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,53.1,53.1,1,1,D,Southampton
+750,0,3,male,31.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+751,1,2,female,4.0,0,Child (0-12),Miss,1,1,3,Small (2-4),0,23.0,23.0,1,0,U,Southampton
+752,1,3,male,6.0,0,Child (0-12),Master,0,1,2,Small (2-4),0,12.475,6.2375,2,1,E,Southampton
+753,0,3,male,33.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,9.5,9.5,1,0,U,Southampton
+754,0,3,male,23.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+755,1,2,female,48.0,0,Adult (31-50),Mrs,1,2,4,Small (2-4),0,65.0,32.5,2,0,U,Southampton
+756,1,2,male,0.67,0,Child (0-12),Master,1,1,3,Small (2-4),0,14.5,7.25,2,0,U,Southampton
+757,0,3,male,28.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.7958,7.7958,1,0,U,Southampton
+758,0,2,male,18.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,11.5,11.5,1,0,U,Southampton
+759,0,3,male,34.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+760,1,1,female,33.0,0,Adult (31-50),Rare,0,0,1,Alone (1),1,86.5,28.833333333333332,3,1,B,Southampton
+761,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,14.5,7.25,2,0,U,Southampton
+762,0,3,male,41.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.125,7.125,1,0,U,Southampton
+763,1,3,male,20.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.2292,7.2292,1,0,U,Cherbourg
+764,1,1,female,36.0,0,Adult (31-50),Mrs,1,2,4,Small (2-4),0,120.0,30.0,4,1,B,Southampton
+765,0,3,male,16.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,7.775,7.775,1,0,U,Southampton
+766,1,1,female,51.0,0,Senior (51+),Mrs,1,0,2,Small (2-4),0,77.9583,25.986099999999997,3,1,D,Southampton
+767,0,1,male,48.5,1,Adult (31-50),Rare,0,0,1,Alone (1),1,39.6,39.6,1,0,U,Cherbourg
+768,0,3,female,30.5,0,Adult (31-50),Miss,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+769,0,3,male,26.0,1,Young adult (19-30),Mr,1,0,2,Small (2-4),0,24.15,8.049999999999999,3,0,U,Queenstown
+770,0,3,male,32.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.3625,8.3625,1,0,U,Southampton
+771,0,3,male,24.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,9.5,9.5,1,0,U,Southampton
+772,0,3,male,48.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.8542,7.8542,1,0,U,Southampton
+773,0,2,female,57.0,0,Senior (51+),Mrs,0,0,1,Alone (1),1,10.5,5.25,2,1,E,Southampton
+774,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.225,7.225,1,0,U,Cherbourg
+775,1,2,female,54.0,0,Senior (51+),Mrs,1,3,5,Large (5+),0,23.0,23.0,1,0,U,Southampton
+776,0,3,male,18.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Southampton
+777,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.75,7.75,1,1,F,Queenstown
+778,1,3,female,5.0,0,Child (0-12),Miss,0,0,1,Alone (1),1,12.475,6.2375,2,0,U,Southampton
+779,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.7375,7.7375,1,0,U,Queenstown
+780,1,1,female,43.0,0,Adult (31-50),Mrs,0,1,2,Small (2-4),0,211.3375,70.44583333333334,3,1,B,Southampton
+781,1,3,female,13.0,0,Teen (13-18),Miss,0,0,1,Alone (1),1,7.2292,7.2292,1,0,U,Cherbourg
+782,1,1,female,17.0,0,Teen (13-18),Mrs,1,0,2,Small (2-4),0,57.0,28.5,2,1,B,Southampton
+783,0,1,male,29.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,30.0,30.0,1,1,D,Southampton
+784,0,3,male,26.0,1,Young adult (19-30),Mr,1,2,4,Small (2-4),0,23.45,11.725,2,0,U,Southampton
+785,0,3,male,25.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.05,7.05,1,0,U,Southampton
+786,0,3,male,25.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.25,7.25,1,0,U,Southampton
+787,1,3,female,18.0,0,Teen (13-18),Miss,0,0,1,Alone (1),1,7.4958,7.4958,1,0,U,Southampton
+788,0,3,male,8.0,0,Child (0-12),Master,4,1,6,Large (5+),0,29.125,5.825,5,0,U,Queenstown
+789,1,3,male,1.0,0,Child (0-12),Master,1,2,4,Small (2-4),0,20.575,10.2875,2,0,U,Southampton
+790,0,1,male,46.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,79.2,39.6,2,1,B,Cherbourg
+791,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+792,0,2,male,16.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,26.0,13.0,2,0,U,Southampton
+793,0,3,female,18.0,1,Teen (13-18),Miss,8,2,11,Large (5+),0,69.55,9.935714285714285,7,0,U,Southampton
+794,0,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,30.6958,30.6958,1,0,U,Cherbourg
+795,0,3,male,25.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+796,0,2,male,39.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+797,1,1,female,49.0,0,Adult (31-50),Rare,0,0,1,Alone (1),1,25.9292,25.9292,1,1,D,Southampton
+798,1,3,female,31.0,0,Adult (31-50),Mrs,0,0,1,Alone (1),1,8.6833,8.6833,1,0,U,Southampton
+799,0,3,male,30.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.2292,7.2292,1,0,U,Cherbourg
+800,0,3,female,30.0,0,Young adult (19-30),Mrs,1,1,3,Small (2-4),0,24.15,8.049999999999999,3,0,U,Southampton
+801,0,2,male,34.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,13.0,6.5,2,0,U,Southampton
+802,1,2,female,31.0,0,Adult (31-50),Mrs,1,1,3,Small (2-4),0,26.25,8.75,3,0,U,Southampton
+803,1,1,male,11.0,0,Child (0-12),Master,1,2,4,Small (2-4),0,120.0,30.0,4,1,B,Southampton
+804,1,3,male,0.42,0,Child (0-12),Master,0,1,2,Small (2-4),0,8.5167,8.5167,1,0,U,Cherbourg
+805,1,3,male,27.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,6.975,6.975,1,0,U,Southampton
+806,0,3,male,31.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.775,7.775,1,0,U,Southampton
+807,0,1,male,39.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,0.0,0.0,1,1,A,Southampton
+808,0,3,female,18.0,0,Teen (13-18),Miss,0,0,1,Alone (1),1,7.775,7.775,1,0,U,Southampton
+809,0,2,male,39.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+810,1,1,female,33.0,0,Adult (31-50),Mrs,1,0,2,Small (2-4),0,53.1,26.55,2,1,E,Southampton
+811,0,3,male,26.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8875,7.8875,1,0,U,Southampton
+812,0,3,male,39.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,24.15,12.075,2,0,U,Southampton
+813,0,2,male,35.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+814,0,3,female,6.0,0,Child (0-12),Miss,4,2,7,Large (5+),0,31.275,4.4678571428571425,7,0,U,Southampton
+815,0,3,male,30.5,0,Adult (31-50),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+816,0,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,0.0,0.0,1,1,B,Southampton
+817,0,3,female,23.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,7.925,7.925,1,0,U,Southampton
+818,0,2,male,31.0,0,Adult (31-50),Mr,1,1,3,Small (2-4),0,37.0042,18.5021,2,0,U,Cherbourg
+819,0,3,male,43.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,6.45,6.45,1,0,U,Southampton
+820,0,3,male,10.0,0,Child (0-12),Master,3,2,6,Large (5+),0,27.9,4.6499999999999995,6,0,U,Southampton
+821,1,1,female,52.0,0,Senior (51+),Mrs,1,1,3,Small (2-4),0,93.5,46.75,2,1,B,Southampton
+822,1,3,male,27.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.6625,8.6625,1,0,U,Southampton
+823,0,1,male,38.0,0,Adult (31-50),Rare,0,0,1,Alone (1),1,0.0,0.0,1,0,U,Southampton
+824,1,3,female,27.0,0,Young adult (19-30),Mrs,0,1,2,Small (2-4),0,12.475,6.2375,2,1,E,Southampton
+825,0,3,male,2.0,0,Child (0-12),Master,4,1,6,Large (5+),0,39.6875,6.614583333333333,6,0,U,Southampton
+826,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,6.95,6.95,1,0,U,Queenstown
+827,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,56.4958,8.070828571428573,7,0,U,Southampton
+828,1,2,male,1.0,0,Child (0-12),Master,0,2,3,Small (2-4),0,37.0042,18.5021,2,0,U,Cherbourg
+829,1,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
+830,1,1,female,62.0,0,Senior (51+),Mrs,0,0,1,Alone (1),1,80.0,40.0,2,1,B,Southampton
+831,1,3,female,15.0,0,Teen (13-18),Mrs,1,0,2,Small (2-4),0,14.4542,7.2271,2,0,U,Cherbourg
+832,1,2,male,0.83,0,Child (0-12),Master,1,1,3,Small (2-4),0,18.75,6.25,3,0,U,Southampton
+833,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.2292,7.2292,1,0,U,Cherbourg
+834,0,3,male,23.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8542,7.8542,1,0,U,Southampton
+835,0,3,male,18.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,8.3,8.3,1,0,U,Southampton
+836,1,1,female,39.0,0,Adult (31-50),Miss,1,1,3,Small (2-4),0,83.1583,83.1583,1,1,E,Cherbourg
+837,0,3,male,21.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.6625,8.6625,1,0,U,Southampton
+838,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,8.05,8.05,1,0,U,Southampton
+839,1,3,male,32.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,56.4958,8.070828571428573,7,0,U,Southampton
+840,1,1,male,40.0,1,Adult (31-50),Mr,0,0,1,Alone (1),1,29.7,29.7,1,1,C,Cherbourg
+841,0,3,male,20.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.925,7.925,1,0,U,Southampton
+842,0,2,male,16.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,10.5,5.25,2,0,U,Southampton
+843,1,1,female,30.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,31.0,15.5,2,0,U,Cherbourg
+844,0,3,male,34.5,0,Adult (31-50),Mr,0,0,1,Alone (1),1,6.4375,6.4375,1,0,U,Cherbourg
+845,0,3,male,17.0,0,Teen (13-18),Mr,0,0,1,Alone (1),1,8.6625,8.6625,1,0,U,Southampton
+846,0,3,male,42.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.55,7.55,1,0,U,Southampton
+847,0,3,male,26.0,1,Young adult (19-30),Mr,8,2,11,Large (5+),0,69.55,9.935714285714285,7,0,U,Southampton
+848,0,3,male,35.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Cherbourg
+849,0,2,male,28.0,0,Young adult (19-30),Rare,0,1,2,Small (2-4),0,33.0,11.0,3,0,U,Southampton
+850,1,1,female,40.0,1,Adult (31-50),Mrs,1,0,2,Small (2-4),0,89.1042,44.5521,2,1,C,Cherbourg
+851,0,3,male,4.0,0,Child (0-12),Master,4,2,7,Large (5+),0,31.275,4.4678571428571425,7,0,U,Southampton
+852,0,3,male,74.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,7.775,7.775,1,0,U,Southampton
+853,0,3,female,9.0,0,Child (0-12),Miss,1,1,3,Small (2-4),0,15.2458,7.6229,2,0,U,Cherbourg
+854,1,1,female,16.0,0,Teen (13-18),Miss,0,1,2,Small (2-4),0,39.4,39.4,1,1,D,Southampton
+855,0,2,female,44.0,0,Adult (31-50),Mrs,1,0,2,Small (2-4),0,26.0,13.0,2,0,U,Southampton
+856,1,3,female,18.0,0,Teen (13-18),Mrs,0,1,2,Small (2-4),0,9.35,9.35,1,0,U,Southampton
+857,1,1,female,45.0,0,Adult (31-50),Mrs,1,1,3,Small (2-4),0,164.8667,82.43335,2,0,U,Southampton
+858,1,1,male,51.0,0,Senior (51+),Mr,0,0,1,Alone (1),1,26.55,26.55,1,1,E,Southampton
+859,1,3,female,24.0,0,Young adult (19-30),Mrs,0,3,4,Small (2-4),0,19.2583,4.814575,4,0,U,Cherbourg
+860,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.2292,7.2292,1,0,U,Cherbourg
+861,0,3,male,41.0,0,Adult (31-50),Mr,2,0,3,Small (2-4),0,14.1083,14.1083,1,0,U,Southampton
+862,0,2,male,21.0,0,Young adult (19-30),Mr,1,0,2,Small (2-4),0,11.5,11.5,1,0,U,Southampton
+863,1,1,female,48.0,0,Adult (31-50),Mrs,0,0,1,Alone (1),1,25.9292,25.9292,1,1,D,Southampton
+864,0,3,female,18.0,1,Teen (13-18),Miss,8,2,11,Large (5+),0,69.55,9.935714285714285,7,0,U,Southampton
+865,0,2,male,24.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+866,1,2,female,42.0,0,Adult (31-50),Mrs,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+867,1,2,female,27.0,0,Young adult (19-30),Miss,1,0,2,Small (2-4),0,13.8583,13.8583,1,0,U,Cherbourg
+868,0,1,male,31.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,50.4958,50.4958,1,1,A,Southampton
+869,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,9.5,9.5,1,0,U,Southampton
+870,1,3,male,4.0,0,Child (0-12),Master,1,1,3,Small (2-4),0,11.1333,3.7111,3,0,U,Southampton
+871,0,3,male,26.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+872,1,1,female,47.0,0,Adult (31-50),Mrs,1,1,3,Small (2-4),0,52.5542,26.2771,2,1,D,Southampton
+873,0,1,male,33.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,5.0,5.0,1,1,B,Southampton
+874,0,3,male,47.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,9.0,9.0,1,0,U,Southampton
+875,1,2,female,28.0,0,Young adult (19-30),Mrs,1,0,2,Small (2-4),0,24.0,12.0,2,0,U,Cherbourg
+876,1,3,female,15.0,0,Teen (13-18),Miss,0,0,1,Alone (1),1,7.225,7.225,1,0,U,Cherbourg
+877,0,3,male,20.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,9.8458,4.9229,2,0,U,Southampton
+878,0,3,male,19.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+879,0,3,male,26.0,1,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+880,1,1,female,56.0,0,Senior (51+),Mrs,0,1,2,Small (2-4),0,83.1583,41.57915,2,1,C,Cherbourg
+881,1,2,female,25.0,0,Young adult (19-30),Mrs,0,1,2,Small (2-4),0,26.0,13.0,2,0,U,Southampton
+882,0,3,male,33.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.8958,7.8958,1,0,U,Southampton
+883,0,3,female,22.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,10.5167,10.5167,1,0,U,Southampton
+884,0,2,male,28.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,10.5,10.5,1,0,U,Southampton
+885,0,3,male,25.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,7.05,7.05,1,0,U,Southampton
+886,0,3,female,39.0,0,Adult (31-50),Mrs,0,5,6,Large (5+),0,29.125,5.825,5,0,U,Queenstown
+887,0,2,male,27.0,0,Young adult (19-30),Rare,0,0,1,Alone (1),1,13.0,13.0,1,0,U,Southampton
+888,1,1,female,19.0,0,Young adult (19-30),Miss,0,0,1,Alone (1),1,30.0,30.0,1,1,B,Southampton
+889,0,3,female,18.0,1,Teen (13-18),Miss,1,2,4,Small (2-4),0,23.45,11.725,2,0,U,Southampton
+890,1,1,male,26.0,0,Young adult (19-30),Mr,0,0,1,Alone (1),1,30.0,30.0,1,1,C,Cherbourg
+891,0,3,male,32.0,0,Adult (31-50),Mr,0,0,1,Alone (1),1,7.75,7.75,1,0,U,Queenstown
