@@ -21,3 +21,7 @@ My work for the **Prodigy InfoTech Data Science Internship**. Each task is in it
 ## Tools
 
 Python, pandas, NumPy, Matplotlib, scikit-learn, Folium, Google Colab
+
+## License
+
+The code in this repository is released under the [MIT License](LICENSE). The datasets belong to their original sources (World Bank, Kaggle, UCI Machine Learning Repository) and keep their own licenses. The notebooks download them from those sources and don't redistribute them, except for the small cleaned Titanic file in Task 02.
